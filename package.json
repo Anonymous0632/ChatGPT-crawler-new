@@ -1,0 +1,17 @@
+{
+  "name": "pac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crawler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "minimatch": "^9.0.4",
+    "playwright": "^1.43.1"
+  }
+}
