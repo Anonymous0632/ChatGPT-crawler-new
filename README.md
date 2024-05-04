@@ -1,6 +1,7 @@
 # ChatGPT-crawler-new
-为补充GPT-crawler被某些网站拒绝访问所开发的新爬虫项目。
-这是一个用于爬取网页内容并保存为JSON文件的工具。它使用了Playwright来模拟浏览器，并提供了一些配置选项以定制爬取行为。
+ - This is a new crawler project developed to supplement the GPT-crawler, which was denied access by some websites. 
+ - It is a tool designed to crawl web page content and save it as JSON files. It uses Playwright to simulate a browser and provides several configuration options to customize the crawling behavior.
+
 - [Get started](#get-started)
   - [Running locally](#running-locally)
     - [Clone the repository](#clone-the-repository)
