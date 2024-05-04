@@ -27,8 +27,9 @@ git clone https://github.com/Anonymous0632/ChatGPT-crawler-new
 
 ```sh
 npm install playwright
-npm install
 npm install minimatch
+node -v
+npm -v
 ```
 
 #### Configure the crawler
